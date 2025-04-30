@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Abid Raza Yousuf!
 
-<!--
-**abidraza-dev/abidraza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Web & Mobile App Developer** with a creative edge.  
+I build responsive websites, sleek mobile interfaces, and write clean, purposeful code.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Mobile Development:** Flutter (basic), React Native (learning)
+- **Backend (Learning Phase):** Node.js, Express, Firebase, MongoDB
+- **Content Creation & Writing**
+- **Visual Design using Canva**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+### 📫 Let's Connect
+- **Fiverr:** [abid_creates](https://www.fiverr.com/abid_creates)
+- **LinkedIn:** [Abid Yousuf](https://www.linkedin.com/in/abid-yousuf-274025247)
+- **Email:** abidraza.works@gmail.com
+
+---
+
+> “Learning never stops. I'm always exploring better ways to code, design, and write.”
