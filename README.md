@@ -22,7 +22,7 @@ I build responsive websites, sleek mobile interfaces, and write clean, purposefu
 
 ### 📫 Let's Connect
 - **Fiverr:** [abid_creates](https://www.fiverr.com/abid_creates)
-- **LinkedIn:** [Abid Yousuf](https://www.linkedin.com/in/abid-yousuf-274025247)
+- **LinkedIn:** [Abid Yousuf](https://www.linkedin.com/in/abid-raza-yousuf-274025247)
 - **Email:** abidraza.works@gmail.com
 
 ---
